@@ -7,123 +7,182 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>白日幻想家</copyright>
-    <lastBuildDate>Fri, 17 Nov 2023 10:02:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 21:49:43 +0800</lastBuildDate>
     
         <atom:link href="https://yoke2002.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
-        <title>Hello World</title>
-        <link>https://yoke2002.github.io/posts/hello/</link>
-        <pubDate>Fri, 17 Nov 2023 10:02:02 +0800</pubDate>
+        <title>SpringBoot 博客项目总结</title>
+        <link>https://yoke2002.github.io/posts/2023/11/springboot-project-summary-1/</link>
+        <pubDate>Tue, 21 Nov 2023 21:49:43 +0800</pubDate>
         
-        <guid>https://yoke2002.github.io/posts/hello/</guid>
-        <description>白日幻想家 https://yoke2002.github.io/posts/hello/ -&lt;p&gt;&lt;img src=&#34;https://yoke2002.github.io/images/notebook.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;　　这样看来， 邓拓在不经意间这样说过，越是没有本领的就越加自命不凡。这不禁令我深思。 我们不得不面对一个非常尴尬的事实，那就是， 一般来说， 所谓中午吃什么，关键是中午吃什么需要如何写。 伏尔泰说过一句富有哲理的话，坚持意志伟大的事业需要始终不渝的精神。这启发了我， 那么， 对我个人而言，中午吃什么不仅仅是一个重大的事件，还可能会改变我的人生。 这样看来， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 一般来讲，我们都必须务必慎重的考虑考虑。 黑格尔说过一句富有哲理的话，只有永远躺在泥坑里的人，才不会再掉进坑里。这启发了我， 我们不得不面对一个非常尴尬的事实，那就是， 既然如何， 在这种困难的抉择下，本人思来想去，寝食难安。&lt;/p&gt;
-&lt;p&gt;　　我认为， 而这些并不是完全重要，更加重要的问题是， 了解清楚中午吃什么到底是一种怎么样的存在，是解决一切问题的关键。 中午吃什么因何而发生？ 而这些并不是完全重要，更加重要的问题是， 卢梭在不经意间这样说过，浪费时间是一桩大罪过。这启发了我， 既然如此， 从这个角度来看， 歌德在不经意间这样说过，意志坚强的人能把世界放在手中像泥块一样任意揉捏。我希望诸位也能好好地体会这句话。 我认为， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 莎士比亚在不经意间这样说过，人的一生是短的，但如果卑劣地过这一生，就太长了。带着这句话，我们还要更加慎重的审视这个问题： 带着这些问题，我们来审视一下中午吃什么。 中午吃什么因何而发生？ 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 布尔沃曾经说过，要掌握书，莫被书掌握；要为生而读，莫为读而生。这似乎解答了我的疑惑。 而这些并不是完全重要，更加重要的问题是， 生活中，若中午吃什么出现了，我们就不得不考虑它出现了的事实。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 带着这些问题，我们来审视一下中午吃什么。 生活中，若中午吃什么出现了，我们就不得不考虑它出现了的事实。 我认为， 一般来说， 中午吃什么，到底应该如何实现。 我们不得不面对一个非常尴尬的事实，那就是， 所谓中午吃什么，关键是中午吃什么需要如何写。 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 现在，解决中午吃什么的问题，是非常非常重要的。&lt;/p&gt;
-&lt;p&gt;　　我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 可是，即使是这样，中午吃什么的出现仍然代表了一定的意义。 带着这些问题，我们来审视一下中午吃什么。 本人也是经过了深思熟虑，在每个日日夜夜思考这个问题。 我认为， 问题的关键究竟为何？ 非洲曾经提到过，最灵繁的人也看不见自己的背脊。这启发了我， 易卜生说过一句富有哲理的话，伟大的事业，需要决心，能力，组织和责任感。这似乎解答了我的疑惑。 一般来说， 在这种困难的抉择下，本人思来想去，寝食难安。 中午吃什么，到底应该如何实现。 经过上述讨论， 我们一般认为，抓住了问题的关键，其他一切则会迎刃而解。 中午吃什么因何而发生？
-带着这些问题，我们来审视一下中午吃什么。 对我个人而言，中午吃什么不仅仅是一个重大的事件，还可能会改变我的人生。&lt;/p&gt;
-&lt;p&gt;$$
-y = ax + b
-$$&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#c6d0f5;background-color:#303446;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@Override&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e78284&#34;&gt;public&lt;/span&gt; ResponseResult &lt;span style=&#34;color:#8caaee&#34;&gt;login&lt;/span&gt;(User user) {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    UsernamePasswordAuthenticationToken usernamePasswordAuthenticationToken &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#ca9ee6&#34;&gt;new&lt;/span&gt; UsernamePasswordAuthenticationToken(user.&lt;span style=&#34;color:#8caaee&#34;&gt;getUserName&lt;/span&gt;(), user.&lt;span style=&#34;color:#8caaee&#34;&gt;getPassword&lt;/span&gt;());
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Authentication authenticate &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; authenticationManager.&lt;span style=&#34;color:#8caaee&#34;&gt;authenticate&lt;/span&gt;(usernamePasswordAuthenticationToken);
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ca9ee6&#34;&gt;if&lt;/span&gt; (Objects.&lt;span style=&#34;color:#8caaee&#34;&gt;isNull&lt;/span&gt;(authenticate)) {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ca9ee6&#34;&gt;throw&lt;/span&gt; &lt;span style=&#34;color:#ca9ee6&#34;&gt;new&lt;/span&gt; RuntimeException(&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;登录失败&amp;#34;&lt;/span&gt;);
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    LoginUser loginUser &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; (LoginUser) authenticate.&lt;span style=&#34;color:#8caaee&#34;&gt;getPrincipal&lt;/span&gt;();
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String userId &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; loginUser.&lt;span style=&#34;color:#8caaee&#34;&gt;getUser&lt;/span&gt;().&lt;span style=&#34;color:#8caaee&#34;&gt;getId&lt;/span&gt;().&lt;span style=&#34;color:#8caaee&#34;&gt;toString&lt;/span&gt;();
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String token &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; JwtUtil.&lt;span style=&#34;color:#8caaee&#34;&gt;createJWT&lt;/span&gt;(userId);
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    Map&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;&amp;lt;&lt;/span&gt;String, String&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;&amp;gt;&lt;/span&gt; map &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ca9ee6&#34;&gt;new&lt;/span&gt; HashMap&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;&amp;lt;&amp;gt;&lt;/span&gt;();
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    map.&lt;span style=&#34;color:#8caaee&#34;&gt;put&lt;/span&gt;(&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;token&amp;#34;&lt;/span&gt;, token);
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    redisCache.&lt;span style=&#34;color:#8caaee&#34;&gt;setCacheObject&lt;/span&gt;(&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;login:&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;+&lt;/span&gt; userId, loginUser);
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ca9ee6&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ca9ee6&#34;&gt;new&lt;/span&gt; ResponseResult(200, &lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;登录成功&amp;#34;&lt;/span&gt;, map);
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
-&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
-&lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
-&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
-&lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
-&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
-&lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
-&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
-&lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
-&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;
-&lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
-&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;
-&lt;p&gt;Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.&lt;/p&gt;
-&lt;h2 id=&#34;typography&#34;&gt;Typography&lt;/h2&gt;
-&lt;p&gt;Lid est laborum et dolorum fuga, This is &lt;a href=&#34;http://example.com/&#34; title=&#34;Title&#34;&gt;an example&lt;/a&gt; inline link. Et harum quidem rerum facilis, &lt;strong&gt;This is bold&lt;/strong&gt; and &lt;em&gt;emphasis&lt;/em&gt; cumque nihilse impedit quo minus id quod amets untra dolor amet sad. While this is &lt;code&gt;code block()&lt;/code&gt; and following is a &lt;code&gt;pre&lt;/code&gt; tag&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;print &#39;this is pre tag&#39;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Following is the syntax highlighted code block&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#c6d0f5;background-color:#303446;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e78284&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#8caaee&#34;&gt;getCookie&lt;/span&gt;(name &lt;span style=&#34;color:#e78284&#34;&gt;string&lt;/span&gt;, r &lt;span style=&#34;color:#e78284&#34;&gt;interface&lt;/span&gt;{}) (&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;*&lt;/span&gt;http.Cookie, &lt;span style=&#34;color:#e78284&#34;&gt;error&lt;/span&gt;) {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	rd &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;:=&lt;/span&gt; r.(&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;*&lt;/span&gt;http.Request)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	cookie, err &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;:=&lt;/span&gt; rd.&lt;span style=&#34;color:#8caaee&#34;&gt;Cookie&lt;/span&gt;(name)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#ca9ee6&#34;&gt;if&lt;/span&gt; err &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;!=&lt;/span&gt; &lt;span style=&#34;color:#ef9f76&#34;&gt;nil&lt;/span&gt; {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#ca9ee6&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ef9f76&#34;&gt;nil&lt;/span&gt;, err
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#ca9ee6&#34;&gt;return&lt;/span&gt; cookie, &lt;span style=&#34;color:#ef9f76&#34;&gt;nil&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e78284&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#8caaee&#34;&gt;setCookie&lt;/span&gt;(cookie &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;*&lt;/span&gt;http.Cookie, w &lt;span style=&#34;color:#e78284&#34;&gt;interface&lt;/span&gt;{}) &lt;span style=&#34;color:#e78284&#34;&gt;error&lt;/span&gt; {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#737994;font-style:italic&#34;&gt;// Get write interface registered using `Acquire` method in handlers.
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#737994;font-style:italic&#34;&gt;&lt;/span&gt;	wr &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;:=&lt;/span&gt; w.(http.ResponseWriter)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	http.&lt;span style=&#34;color:#8caaee&#34;&gt;SetCookie&lt;/span&gt;(wr, cookie)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#ca9ee6&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ef9f76&#34;&gt;nil&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This is blockquote, Will make it &lt;em&gt;better now&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;lsquo;I want to do with you what spring does with the cherry trees.&amp;rsquo; &lt;!-- raw HTML omitted --&gt;cited ~Pablo Neruda&lt;!-- raw HTML omitted --&gt;*&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Et harum quidem &lt;em&gt;rerum facilis&lt;/em&gt; est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Unordered list&lt;/p&gt;
+        <guid>https://yoke2002.github.io/posts/2023/11/springboot-project-summary-1/</guid>
+        <description>白日幻想家 https://yoke2002.github.io/posts/2023/11/springboot-project-summary-1/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;从十月底开始，我一直在学习 Java 后端开发的知识。随着博客项目接近尾声，来对这段时间做一个阶段性小结，一个月以来，我从 Java 基础、MySQL、Java Web 学到 Mybatis、Spring、SpringMVC 以及 SpringBoot，还有项目中用到的 Spring Security、Mybatis Plus 和 Redis 等等。其实之前也接触过这里面的部分技术，写点简单的 Servlet，对于 Spring 全家桶概念还不是那么清楚，比如之前一直不知道 SpringMVC 是什么，再加上很久没有 coding，连 Java 最基本的 API 都忘得一干二净。因此，那时我决定从基础开始学习。一个月接触这么多，是因为不想浪费这么多时间，很多东西学了就忘了，以后估计也用不到，只有一些重要的东西值得花时间去探究原理，如并发编程和数据库等。至于 Spring，以后换个语言、换个公司，框架就换了。（当然也不是完全放弃，框架的思想，用到的设计模式、反射等知识也非常值得学习）&lt;/p&gt;
+&lt;h2 id=&#34;博客项目&#34;&gt;博客项目&lt;/h2&gt;
+&lt;p&gt;既然学完了 SpringBoot，就可以开始找单体项目进行实战，如果不多写两个项目，直接去看微服务，大概率会摔个大跟头。我 Spring 全家桶都是跟一个 UP 主学的，刚好有项目的视频教程，把前面学习的东西都能用上，我就直接跟着他做了，接下来就总结一下我的收获（&lt;del&gt;菜狗的自我反思属于是&lt;/del&gt;）。&lt;/p&gt;
+&lt;h3 id=&#34;数据库相关&#34;&gt;数据库相关&lt;/h3&gt;
+&lt;p&gt;在基础阶段，我认为有两个比较难的点：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
+&lt;li&gt;数据库设计：如何准确理解需求，设计出对应的表，理清表之间的关系，设计好约束和外键。&lt;/li&gt;
+&lt;li&gt;联表查询：对于复杂的查询来说，涉及到多张表，如何准确地联表获得想要的数据。
+我全程都是跟着老师的思路走，到现在为止，我仍然觉得它们是困难的，可能还是自己基础不牢，实战太少。因此，还是需要不断的实战和思考来提升自己这方面的能力。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Ordered list&lt;/p&gt;
+&lt;h3 id=&#34;项目搭建&#34;&gt;项目搭建&lt;/h3&gt;
+&lt;p&gt;这个项目是使用 Maven 搭建的，和以往不同，由于这个博客项目分为前台和后台，写在一起太复杂，但为了复用，把这个项目拆成了两个模块，继承父模块，能够统一管理依赖，并提高公共类的复用性。以前一直以为只有微服务项目才这样拆，原来单体项目也可以。
+另外，之前创建项目时都是使用 IDEA 勾选添加依赖，现在是手动引入的（虽然是复制的），让我对整个项目的依赖了解更加清楚，知道每个依赖有什么作用。&lt;/p&gt;
+&lt;h3 id=&#34;登录和认证&#34;&gt;登录和认证&lt;/h3&gt;
+&lt;p&gt;这个项目的登录和认证引入了 Spring Security，一开始我在想，之前登录也不需要写多少代码呀，为什么要用一个这么复杂的库，所以刚开始时也是懵懵的，后来又在网上找别人的博客学习才勉强搞懂了一点。其实在简单的项目中用 Spring Security 确实没有必要，这个库很重，但是项目大起来了之后，登录和认证的流程也不会简单，这个时候使用就很合适。下面记录一下在这个项目中使用的步骤：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
+&lt;li&gt;自定义登录接口，把用户的信息封装到 &lt;code&gt;UsernamePasswordAuthenticationToken&lt;/code&gt; 中，调用 &lt;code&gt;AuthenticationManager&lt;/code&gt; 对象的 &lt;code&gt;authenticate&lt;/code&gt; 方法进行认证，如果认证通过，生成 token 返回给前端。&lt;/li&gt;
+&lt;li&gt;Spring Security 认证时是默认到内存中去取数据进行认证，所以需要自己实现 &lt;code&gt;UserDetailsService&lt;/code&gt; 接口，让它去数据库中查数据，这里密码加密可以配置 &lt;code&gt;passwordEncoder&lt;/code&gt; 为 &lt;code&gt;BCryptPasswordEncoder&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;最后就是有 token 时的校验，需要自定义一个 JWT 认证过滤器，它的工作是获取 token 并解析，得到 userId，封装成 &lt;code&gt;Authentication&lt;/code&gt; 对象，这里调用的是 &lt;code&gt;UsernamePasswordAuthenticationToken&lt;/code&gt; 三个参数的构造方法（登录时调用的是有两个参数的构造方法），存入 &lt;code&gt;SecurityContextHolder&lt;/code&gt;，后面的过滤器就知道认证通过了。&lt;/li&gt;
 &lt;/ol&gt;
-- https://yoke2002.github.io/posts/hello/ - 白日幻想家</description>
+&lt;p&gt;附上一份配置代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#c6d0f5;background-color:#303446;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@Configuration&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@EnableGlobalMethodSecurity&lt;/span&gt;(prePostEnabled &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ef9f76&#34;&gt;true&lt;/span&gt;)  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e78284&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#e78284&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#e5c890&#34;&gt;SecurityConfig&lt;/span&gt; &lt;span style=&#34;color:#e78284&#34;&gt;extends&lt;/span&gt; WebSecurityConfigurerAdapter {  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@Autowired&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e78284&#34;&gt;private&lt;/span&gt; JwtAuthenticationTokenFilter jwtAuthenticationTokenFilter;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@Autowired&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e78284&#34;&gt;private&lt;/span&gt; AuthenticationEntryPointImpl authenticationEntryPoint;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@Autowired&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e78284&#34;&gt;private&lt;/span&gt; AccessDeniedHandlerImpl accessDeniedHandler;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@Override&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@Bean&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e78284&#34;&gt;public&lt;/span&gt; AuthenticationManager &lt;span style=&#34;color:#8caaee&#34;&gt;authenticationManagerBean&lt;/span&gt;() &lt;span style=&#34;color:#e78284&#34;&gt;throws&lt;/span&gt; Exception {  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ca9ee6&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#e78284&#34;&gt;super&lt;/span&gt;.&lt;span style=&#34;color:#8caaee&#34;&gt;authenticationManagerBean&lt;/span&gt;();  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@Bean&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e78284&#34;&gt;public&lt;/span&gt; PasswordEncoder &lt;span style=&#34;color:#8caaee&#34;&gt;passwordEncoder&lt;/span&gt;() {  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ca9ee6&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ca9ee6&#34;&gt;new&lt;/span&gt; BCryptPasswordEncoder();  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#8caaee;font-weight:bold&#34;&gt;@Override&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#e78284&#34;&gt;protected&lt;/span&gt; &lt;span style=&#34;color:#e78284&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#8caaee&#34;&gt;configure&lt;/span&gt;(HttpSecurity http) &lt;span style=&#34;color:#e78284&#34;&gt;throws&lt;/span&gt; Exception {  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        http  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &lt;span style=&#34;color:#737994;font-style:italic&#34;&gt;// 关闭csrf  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                .&lt;span style=&#34;color:#8caaee&#34;&gt;csrf&lt;/span&gt;().&lt;span style=&#34;color:#8caaee&#34;&gt;disable&lt;/span&gt;()  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &lt;span style=&#34;color:#737994;font-style:italic&#34;&gt;// 不通过Session获取SecurityContext  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                .&lt;span style=&#34;color:#8caaee&#34;&gt;sessionManagement&lt;/span&gt;().&lt;span style=&#34;color:#8caaee&#34;&gt;sessionCreationPolicy&lt;/span&gt;(SessionCreationPolicy.&lt;span style=&#34;color:#8caaee&#34;&gt;STATELESS&lt;/span&gt;)  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                .&lt;span style=&#34;color:#8caaee&#34;&gt;and&lt;/span&gt;()  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                .&lt;span style=&#34;color:#8caaee&#34;&gt;authorizeRequests&lt;/span&gt;()  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &lt;span style=&#34;color:#737994;font-style:italic&#34;&gt;// 对于登录接口允许匿名访问  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                .&lt;span style=&#34;color:#8caaee&#34;&gt;antMatchers&lt;/span&gt;(&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;/user/login&amp;#34;&lt;/span&gt;).&lt;span style=&#34;color:#8caaee&#34;&gt;anonymous&lt;/span&gt;()  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                .&lt;span style=&#34;color:#8caaee&#34;&gt;anyRequest&lt;/span&gt;().&lt;span style=&#34;color:#8caaee&#34;&gt;authenticated&lt;/span&gt;();  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        http.&lt;span style=&#34;color:#8caaee&#34;&gt;exceptionHandling&lt;/span&gt;()  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                .&lt;span style=&#34;color:#8caaee&#34;&gt;authenticationEntryPoint&lt;/span&gt;(authenticationEntryPoint)  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                .&lt;span style=&#34;color:#8caaee&#34;&gt;accessDeniedHandler&lt;/span&gt;(accessDeniedHandler);  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        http.&lt;span style=&#34;color:#8caaee&#34;&gt;logout&lt;/span&gt;().&lt;span style=&#34;color:#8caaee&#34;&gt;disable&lt;/span&gt;();  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        http.&lt;span style=&#34;color:#8caaee&#34;&gt;addFilterBefore&lt;/span&gt;(jwtAuthenticationTokenFilter, UsernamePasswordAuthenticationFilter.&lt;span style=&#34;color:#8caaee&#34;&gt;class&lt;/span&gt;);  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#737994;font-style:italic&#34;&gt;// 允许跨域  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        http.&lt;span style=&#34;color:#8caaee&#34;&gt;cors&lt;/span&gt;();  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;权限分离&#34;&gt;权限分离&lt;/h3&gt;
+&lt;p&gt;这个项目的权限分离基于 RBAC 模型，配合 Spring Security 使用起来也非常方便。大概过程是在数据库中加了一张权限表（下面代码中是 menu），然后每个角色有不同的权限，也就是一对多的关系，当然，角色还需要和用户关联起来，这里是多对多的关系，还是比较复杂的。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#c6d0f5;background-color:#303446;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;#&lt;/span&gt; &lt;span style=&#34;color:#e78284&#34;&gt;先查用户有哪些角色&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;#&lt;/span&gt; &lt;span style=&#34;color:#e78284&#34;&gt;然后再查每个角色有什么权限&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;#&lt;/span&gt; &lt;span style=&#34;color:#e78284&#34;&gt;最后去重得到权限列表&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ca9ee6&#34;&gt;SELECT&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#ca9ee6&#34;&gt;DISTINCT&lt;/span&gt; perms
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ca9ee6&#34;&gt;FROM&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	sys_user_role ur
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#ca9ee6&#34;&gt;LEFT&lt;/span&gt; &lt;span style=&#34;color:#ca9ee6&#34;&gt;JOIN&lt;/span&gt; sys_role_menu rm &lt;span style=&#34;color:#ca9ee6&#34;&gt;ON&lt;/span&gt; ur.role_id &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; rm.role_id
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#ca9ee6&#34;&gt;LEFT&lt;/span&gt; &lt;span style=&#34;color:#ca9ee6&#34;&gt;JOIN&lt;/span&gt; sys_menu m &lt;span style=&#34;color:#ca9ee6&#34;&gt;ON&lt;/span&gt; m.id &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; rm.menu_id
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ca9ee6&#34;&gt;WHERE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	ur.user_id &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;?&lt;/span&gt; &lt;span style=&#34;color:#ca9ee6&#34;&gt;AND&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	m.menu_type &lt;span style=&#34;color:#ca9ee6&#34;&gt;IN&lt;/span&gt; (&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#39;C&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#39;F&amp;#39;&lt;/span&gt;) &lt;span style=&#34;color:#ca9ee6&#34;&gt;AND&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	m.&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;`&lt;/span&gt;status&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;`&lt;/span&gt; &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ef9f76&#34;&gt;0&lt;/span&gt; &lt;span style=&#34;color:#ca9ee6&#34;&gt;AND&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	m.del_flag &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ef9f76&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;另外，这个 UP 貌似是参考若依实现的，不同用户能够看到不同的菜单，靠的是后端返回的组件路径，前端根据这个渲染，感觉实际中不太可能这样干？我个人认为跟前端框架耦合了，但我也不知道实际中是如何实现的。&lt;/p&gt;
+&lt;h3 id=&#34;树形结构&#34;&gt;树形结构&lt;/h3&gt;
+&lt;p&gt;返回给前端的评论列表和菜单列表都采用了树形结构，感觉也挺难的，用到了递归，能听懂但是自己写不出来，狠狠地去 LeetCode 刷二叉树🤣。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#c6d0f5;background-color:#303446;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;code&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#ef9f76&#34;&gt;200&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;data&amp;#34;&lt;/span&gt;:{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;menus&amp;#34;&lt;/span&gt;:[
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;children&amp;#34;&lt;/span&gt;:[
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;					{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;children&amp;#34;&lt;/span&gt;:[],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;component&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;content/link/index&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;createTime&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;2022-01-08 02:56:50&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;icon&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;404&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;id&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#ef9f76&#34;&gt;2022&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;isFrame&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#ef9f76&#34;&gt;1&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;menuName&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;友链管理&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;menuType&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;C&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;orderNum&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#ef9f76&#34;&gt;4&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;parentId&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#ef9f76&#34;&gt;2017&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;path&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;link&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;perms&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;content:link:list&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;status&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;0&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;						&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;visible&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;					}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;createTime&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;2022-01-08 02:44:38&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;icon&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;table&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;id&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#ef9f76&#34;&gt;2017&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;isFrame&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#ef9f76&#34;&gt;1&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;menuName&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;内容管理&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;menuType&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;M&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;orderNum&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#ef9f76&#34;&gt;4&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;parentId&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#ef9f76&#34;&gt;0&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;path&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;content&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;perms&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;status&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;0&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;				&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;visible&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;			}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	},
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#ca9ee6&#34;&gt;&amp;#34;msg&amp;#34;&lt;/span&gt;:&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;操作成功&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;图片上传到-oss&#34;&gt;图片上传到 OSS&lt;/h3&gt;
+&lt;p&gt;图片上传在 controller 中使用 &lt;code&gt;MultipartFile&lt;/code&gt; 接收参数，并且要求请求头中的 Content-Type 必须是 multipart/form-data。然后就是调用云服务厂商的 SDK，白嫖了一下七牛云，完成了这个接口的开发。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#c6d0f5;background-color:#303446;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e78284&#34;&gt;public&lt;/span&gt; ResponseResult &lt;span style=&#34;color:#8caaee&#34;&gt;uploadImg&lt;/span&gt;(MultipartFile img) {  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String originalFilename &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; img.&lt;span style=&#34;color:#8caaee&#34;&gt;getOriginalFilename&lt;/span&gt;();  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ca9ee6&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;!&lt;/span&gt;originalFilename.&lt;span style=&#34;color:#8caaee&#34;&gt;endsWith&lt;/span&gt;(&lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;.png&amp;#34;&lt;/span&gt;)) {  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#ca9ee6&#34;&gt;throw&lt;/span&gt; &lt;span style=&#34;color:#ca9ee6&#34;&gt;new&lt;/span&gt; SystemException(AppHttpCodeEnum.&lt;span style=&#34;color:#8caaee&#34;&gt;FILE_TYPE_ERROR&lt;/span&gt;);  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String filePath &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; PathUtils.&lt;span style=&#34;color:#8caaee&#34;&gt;generateFilePath&lt;/span&gt;(originalFilename); 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    String url &lt;span style=&#34;color:#99d1db;font-weight:bold&#34;&gt;=&lt;/span&gt; uploadOss(img, filePath);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ca9ee6&#34;&gt;return&lt;/span&gt; ResponseResult.&lt;span style=&#34;color:#8caaee&#34;&gt;okResult&lt;/span&gt;(url);  
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;其它&#34;&gt;其它&lt;/h3&gt;
+&lt;p&gt;在该项目中，还学习到了一些其它知识，了解的也不是很深，就不详细写了，但平时使用的频率也不低。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AOP 实现统一打印日志（如请求和响应）&lt;/li&gt;
+&lt;li&gt;定时任务（如定时将 Redis 中的数据同步到 MySQL）&lt;/li&gt;
+&lt;li&gt;使用 Swagger 维护接口文档&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+&lt;p&gt;非常感谢这位&lt;a href=&#34;https://space.bilibili.com/663528522/&#34;&gt;老师&lt;/a&gt;的课程，一直秉持着”授人以鱼，不如授人以渔“的观点，强调 debug、看文档的重要性。老师也在后面留了一些功能让大家自己实现，它只提供了需求和接口文档，大部分是 CRUD，写了两个就不想写了，就这样结束吧，其实坚持写完还是能锻炼一下熟练度的，但是我得往后走了。&lt;/p&gt;
+- https://yoke2002.github.io/posts/2023/11/springboot-project-summary-1/ - 白日幻想家</description>
         </item>
     
     
     
         <item>
-        <title>Test</title>
-        <link>https://yoke2002.github.io/posts/test/</link>
-        <pubDate>Fri, 17 Nov 2023 09:53:17 +0800</pubDate>
+        <title>关于我</title>
+        <link>https://yoke2002.github.io/about/</link>
+        <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://yoke2002.github.io/posts/test/</guid>
-        <description>白日幻想家 https://yoke2002.github.io/posts/test/ -&lt;h2 id=&#34;前言为什么选择静态博客为什么选择hugo&#34;&gt;前言：为什么选择静态博客？为什么选择Hugo？&lt;/h2&gt;
-&lt;p&gt;搭建一个个人博客，最方便、成本最低、体验最好的方案就是静态博客。大量的平台、文档、软件、主题可供使用。静态博客是趋势所在。&lt;/p&gt;
-&lt;p&gt;在静态网站生成工具中，Hugo似乎并不是最流行的那一个。但选择Hugo也有我的理由：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;hugo在Windows下有单文件的版本，只要把文件下载下来并添加到环境变量就可以使用，相较于Hexo等要方便不少。&lt;/li&gt;
-&lt;li&gt;文档较为充足，平台支持度高，既可以在netlify、vercel安装，也可以在CFpages安装。&lt;/li&gt;
-&lt;li&gt;组织管理文件比较方便，既适合对外展示，也适合自己查找。支持多个站点共同管理。支持文件手动迁移。&lt;/li&gt;
-&lt;li&gt;主题好看。&lt;/li&gt;
-&lt;/ul&gt;
-- https://yoke2002.github.io/posts/test/ - 白日幻想家</description>
+        <guid>https://yoke2002.github.io/about/</guid>
+        <description>白日幻想家 https://yoke2002.github.io/about/ -&lt;p&gt;To be updated soon.&lt;/p&gt;
+- https://yoke2002.github.io/about/ - 白日幻想家</description>
         </item>
-    
-    
     
     
   </channel>
